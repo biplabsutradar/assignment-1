@@ -1,0 +1,108 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+.first-section{
+    display:flex;
+    margin-top:0%;
+}
+.half-width{
+    width:50%;
+    margin-left:8%;
+    font-size: 24px;
+}
+.half-width p{
+    font-size: 18px;
+}
+.half-width img{
+    width:80%;
+}
+.left-border{
+    border-left:3px solid orange;
+    padding:0px 0px 0px 10px;
+}
+h1{
+    margin:0%;
+}    
+.color{
+    color:orange;
+}
+p{
+    font-size:12px;
+    color:rgb(121, 122, 122);
+}
+.link-button{
+    text-decoration:none;
+    background-color: orange;
+    border-radius:5px;
+    padding:5px 10px;
+    margin-top:10%;
+    color:white;
+    font-size:20px;
+}
+#div-size {
+    margin-top: 165px;
+}
+.second-section{
+    font-family: 'Poppins', sans-serif;
+}
+.second-flex{
+    display:flex;
+    margin-top:20px;
+}
+.my-mission{
+    text-align:center;
+    margin-top:40px;
+}
+.my-mission span{
+    color:orange;
+}
+.half-width2{
+    width:30%;
+    margin:4%;
+    padding-left:2%;
+    border-radius:5px;
+    
+}
+.half-width2 p{
+    font-size: 10px;
+    margin-top: -16px;
+    padding:1%
+}
+.icon{
+    height:80px;
+    width:80px
+}
+#bg1{
+    background-color:rgb(252, 248, 243);
+}
+#bg2{
+    background-color: rgb(253, 238, 240);
+}
+#bg3{
+    background-color:rgb(247, 249, 252);
+}
+.third-section{
+    display:flex;
+    font-family: 'Poppins', sans-serif;
+    margin-top:40px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-position:left;
+}
+.third-link-button{
+    text-decoration:none;
+    background-color: orange;
+    border-radius:5px;
+    padding:5px 10px;
+    margin-top:20%;
+    color:white;
+    font: size 20px;
+}
+.third-half-width h2{
+    font: weight 700px;;
+}
+.third-half-width h2 p{
+    font-size: 6px;
+}
