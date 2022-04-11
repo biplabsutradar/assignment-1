@@ -59,14 +59,14 @@ p{
     color:orange;
 }
 .half-width2{
-    width:30%;
-    margin:4%;
-    padding-left:2%;
+    width:32%;
+    margin:2%;
+    padding:5%;
     border-radius:5px;
     
 }
 .half-width2 p{
-    font-size: 10px;
+    font-size: 14px;
     margin-top: -16px;
     padding:1%
 }
@@ -87,7 +87,7 @@ p{
     display:flex;
     font-family: 'Poppins', sans-serif;
     margin-top:40px;
-    background-image: url(images/shapes/shape-1.png);
+    background-image: url(images/shapes/dream-bg.png);
     background-repeat:no-repeat;
     background-position:left;
 }
@@ -95,14 +95,17 @@ p{
     text-decoration:none;
     background-color: orange;
     border-radius:5px;
-    padding:5px 10px;
+    padding:10px 25px;
     margin-top:20%;
     color:white;
-    font: size 20px;
+    font-size: 20px;
 }
 .third-half-width h2{
     font: weight 700px;;
 }
 .third-half-width h2 p{
     font-size: 6px;
+}
+.third-half-width2{
+    margin-top:20px;
 }
