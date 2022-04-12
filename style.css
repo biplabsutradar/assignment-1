@@ -175,3 +175,20 @@ p{
     color:white;
     font-size: 20px;
 }
+.footer-section{
+    font-family: 'Poppins', sans-serif;
+    background-color:#581845;
+    text-align:center;
+    color:white;
+}
+.footer-text{
+    padding-top: 7%;
+}
+.footer-text span{
+    color:orange;
+}
+.footer-taglin{
+    padding-bottom:5%;
+    margin-top: 0px;
+    color:white;
+}
