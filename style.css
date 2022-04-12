@@ -16,17 +16,17 @@ body{
     font-size: 18px;
 }
 .half-width img{
-    width:80%;
+    width:86%;
 }
 .left-border{
-    border-left:3px solid orange;
+    border-left:3px solid #900C3F;
     padding:0px 0px 0px 10px;
 }
 h1{
     margin:0%;
 }    
 .color{
-    color:orange;
+    color:#FF5733;
 }
 p{
     font-size:12px;
@@ -34,7 +34,7 @@ p{
 }
 .link-button{
     text-decoration:none;
-    background-color: orange;
+    background-color: #900C3F;
     border-radius:5px;
     padding:5px 10px;
     margin-top:10%;
@@ -56,7 +56,7 @@ p{
     margin-top:40px;
 }
 .my-mission span{
-    color:orange;
+    color:#FF5733;
 }
 .half-width2{
     width:32%;
@@ -87,13 +87,14 @@ p{
     display:flex;
     font-family: 'Poppins', sans-serif;
     margin-top:40px;
-    background-image: url(images/shapes/dream-bg.png);
+    background-image: url(images/shapes/shape-1.png);
+    background-size:250px 250px;
     background-repeat:no-repeat;
     background-position:left;
 }
 .third-link-button{
     text-decoration:none;
-    background-color: orange;
+    background-color: #900C3F;
     border-radius:5px;
     padding:10px 25px;
     margin-top:20%;
@@ -107,5 +108,70 @@ p{
     font-size: 6px;
 }
 .third-half-width2{
-    margin-top:20px;
+    margin-top: 80px;
+    margin-left: -4px;
+}
+.furth-section{
+    display:flex;
+    font-family: 'Poppins', sans-serif;
+    margin-top:40px;
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat:no-repeat;
+    background-size:160px 160px;
+    background-position:right bottom;
+    
+}
+.furth-div{
+    display:flex;
+    margin-bottom:40px
+}
+.furth-half-width{
+    margin-top: 55px;
+    margin-left: 80px;
+}
+.build{
+    margin-top:40px;
+    font-family: 'Poppins', sans-serif;
+}
+.text-align{
+    margin: 0%;
+    text-align: center;
+    font-size: 43px;
+    font-weight: 700;
+}
+.buil-flex-section{
+    display:flex;
+}
+.corona-color{
+    color:#FF5733;
+}
+.five-section{
+    width:50%;
+    margin-left:2%;
+}
+.five-section img{
+    width:100%;
+}
+#div-siz3{
+    margin-top: 390px;
+    margin-left: 0;
+    padding-left: 2%;
+    text-align: left;
+    font-size: 35px;
+    font-weight: 700;
+}
+#div-siz3 p{
+    font-size:18px;
+}
+.go-color{
+    color:#FF5733;
+}
+.link-button-furth{
+    text-decoration:none;
+    background-color: #900C3F;
+    border-radius:5px;
+    padding:10px 25px;
+    margin-top:20%;
+    color:white;
+    font-size: 20px;
 }
